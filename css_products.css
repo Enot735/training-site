@@ -1,0 +1,22 @@
+h1 {font-family: Courier New;
+	padding-left: 100px;
+	padding-top: 20px;
+	color: #483D8B}
+h2 {font-family: Courier New;
+	padding-left: 100px;
+	font-style: italic;
+	color: #483D8B}
+h4 {font-family: Courier New;
+	padding-top: 300px;
+	font-style: bold}
+p {font-family: Courier New;
+	padding-left: 200px;
+	padding-right: 200px}
+a {font-family: Courier New;
+	text-decoration: none;
+   font-size: 30px;
+   color: #008080}
+img {padding-bottom: 10px;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  	padding-top: 10px}
